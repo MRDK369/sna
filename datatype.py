@@ -1,16 +1,7 @@
+name=input()
+scoure=int(input())
+department=input()
 
-#for loop
-
-"""
-this 
-is 
-multi-
-line 
-comment
-
-
-"""
-
-a=5//3
-
-print(a)
+print("MY NAME IS:",name)
+print("MY SCOURE IS :" ,scoure/10,"/10")
+print("MY DEPARTMENT IS:",department)
