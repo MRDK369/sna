@@ -1,7 +1,4 @@
-name=input()
-scoure=int(input())
-department=input()
+i=[1,2,3,4,5]
 
-print("MY NAME IS:",name)
-print("MY SCOURE IS :" ,scoure/10,"/10")
-print("MY DEPARTMENT IS:",department)
+i.append(6)
+
