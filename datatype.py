@@ -1,4 +1,11 @@
-i=[1,2,3,4,5]
+var = 10
 
-i.append(6)
+if var > 10:
+    print("helllo")
+elif var < 10:
+    print("hello world")
+else:
+    print("what is this")        
 
+
+    
