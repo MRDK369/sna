@@ -1,11 +1,7 @@
 var = 10
 
-if var > 10:
-    print("helllo")
-elif var < 10:
-    print("hello world")
-else:
-    print("what is this")        
 
+while var<= 10 and var>=0:
+    print("#{} hello world" . format(var))
+    var = var-1
 
-    
