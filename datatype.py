@@ -1,7 +1,8 @@
-var = 10
+f= open("demofile.txt" , "a")
+f.write("\nsee you bye")
+f.close()
 
 
-while var<= 10 and var>=0:
-    print("#{} hello world" . format(var))
-    var = var-1
 
+f= open("demofile.txt", "r")
+print(f.read())
